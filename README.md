@@ -14,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">fasweeh-faz</a> to make it public
+Project created by <a href="https://github.com/fasweeh-faz">fasweeh-faz</a> to make it public
     <br>
        | © |
         Reserved |
