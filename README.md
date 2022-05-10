@@ -14,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/ameer-kallumthodi">fasweeh-faz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,51 +26,39 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://https://replit.com/@fasweehFqz/Inrl-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fasweeh-faz/Inrl)
      </div>
-<br>
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+
   ### If there is an error deploying, try the following steps
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@ameer-kallumthodi/Pikachu-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://https://replit.com/@fasweehFqz/Inrl-QR)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
+ Click [FORK](https://github.com/fasweeh-faz/Inrl/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/fasweeh-faz/Inrl copy this url and change ameer-kallumthodi with your github username and click go<br>
 
 ----
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://instagram.com/mhd_fasweeh" target="blank"><img align="center" 
 </p>
 
-  <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-<p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=Magenta&style=flat-square"></a>
-</p>
+
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+919946432377)
+  [![join](https://i.imgur.com/reMlxo.png)](http://wa.me/+917025099161)
   <div align="center">
        
   </div>
@@ -81,7 +69,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/fasweeh-faz/Inrl
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -91,8 +79,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/fasweeh-faz/Inrl
+$ cd inrl
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,13 +100,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Ameer Suhail`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
-
-[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
+  [![`Ameer `](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/fasweh-faz)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
