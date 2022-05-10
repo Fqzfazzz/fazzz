@@ -5,12 +5,12 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/SoIxkUE.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://imgur.com/8c7F2iS" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Inrl" src="https://img.shields.io/badge/Inrl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/fasweeh-faz"><img title="Author" src="https://img.shields.io/badge/Author-fasweeh-faz-0/Inrl?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
